@@ -76,3 +76,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "omniauth-azure-activedirectory-v2"
+
+gem "pry", "~> 0.14.1"
